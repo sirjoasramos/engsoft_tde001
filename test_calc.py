@@ -13,4 +13,4 @@ def calc(n1, n2, op):
 #print(calc(4,2,'/'))
 
 def test_calc():
-	assert calc(4,2,'+') == 5
+	assert calc(4,2,'+') == 6
